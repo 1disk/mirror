@@ -7,5 +7,6 @@ If you would like to contribute, please create a mirror for 1disk. You shall sub
 
 - ~vern - https://git.vern.cc/1disk
 - Codeberg - https://codeberg.org/1disk
+- Gitdab - https://gitdab.com/1disk
 
 ## MORE COMING SOON!
