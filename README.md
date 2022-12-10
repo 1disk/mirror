@@ -4,9 +4,11 @@ There some mirrors that are owned by me, some is owned by another person.
 If you would like to contribute, please create a mirror for 1disk. You shall submit an issue (with a suggestion tag) if you find one a mirror with all the repositories.
 
 # Gitea
-
+## OFFICIAL MIRRORS
 - ~vern - https://git.vern.cc/1disk
 - Codeberg - https://codeberg.org/1disk
 - Gitdab - https://gitdab.com/1disk
+
+## UNOFFICIAL MIRRORS
 
 ## MORE COMING SOON!
